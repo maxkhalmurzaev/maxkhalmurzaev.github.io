@@ -2452,10 +2452,10 @@
 					}
 
 			body.header-visible #main {
-				-moz-transform: translateX(250px);
-				-webkit-transform: translateX(250px);
-				-ms-transform: translateX(250px);
-				transform: translateX(250px);
+				-moz-transform: translateX(220px);
+				-webkit-transform: translateX(220px);
+				-ms-transform: translateX(220px);
+				transform: translateX(220px);
 			}
 
 			body.header-visible #headerToggle {
