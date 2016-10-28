@@ -2073,16 +2073,16 @@
 			text-decoration: none;
 			outline: 0;
 			border: 0;
-			-moz-transition: ease 0.5s;
-			-webkit-transition: ease 0.5s;
-			-ms-transition: ease 0.5s;
-			transition: ease 0.5s;
+			-moz-transition: ease 1s;
+			-webkit-transition: ease 1s;
+			-ms-transition: ease 1s;
+			transition: ease 1s;
 		}
 
 			#nav ul li a span {
 				position: relative;
 				display: block;
-				font-size: 0.8em;
+				font-size: 0.5em;
 				color: #000;
 				font-family: century gothic, Arial;
 			}
@@ -2100,7 +2100,10 @@
 				text-decoration: underline;
 				color: #000;
 			}
-
+#nav ul li a.hover {
+				text-decoration: underline;
+				color: #000;
+}
 				#nav ul li a.active span:before {
 					color: #000;
 				}
