@@ -201,7 +201,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 #sceneListToggle {
   position: absolute;
   top: 180px;
-  left: 0;
+  right: 0;
   width: 40px;
   height: 40px;
   padding: 5px;
@@ -253,14 +253,14 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 #sceneList {
   position: absolute;
   top: 180px;
-  left: -220px;
+  right: -220px;
   padding-top: 40px;
   width: 220px;
   max-height: 100%;
   overflow-x: hidden;
   overflow-y: auto;
   margin-left: 0;
-  transition: margin-left 0.5s ease-in-out;
+  transition: margin-right 0.5s ease-in-out;
 }
 
 .mobile #sceneList {
@@ -287,7 +287,7 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 #sceneList.enabled {
-  margin-left: 220px;
+  margin-right: 220px;
 }
 
 #sceneList .scene {

@@ -8,8 +8,17 @@ body {
   height: 100%;
   width: 100%;
 }
+@font-face {
+    font-family: "CenturyGothicRegular";
+    src: url("css/CenturyGothicRegular/CenturyGothicRegular.eot");
+    src: url("css/CenturyGothicRegular/CenturyGothicRegular.eot?#iefix")format("embedded-opentype"),
+    url("css/CenturyGothicRegular/CenturyGothicRegular.woff") format("woff"),
+    url("css/CenturyGothicRegular/CenturyGothicRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
 body {
-  font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
+  font-family: "CenturyGothicRegular", Arial, sans-serif !important;
 }
 hr {
   border-color: #F05F40;
