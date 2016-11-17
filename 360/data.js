@@ -18,7 +18,7 @@ var APP_DATA = {
           "size": 1024
         }
       ],
-      "faceSize": 900,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -43,13 +43,9 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 2048,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -74,13 +70,9 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 1440,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -105,13 +97,9 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
         }
       ],
-      "faceSize": 2000,
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
@@ -136,13 +124,117 @@ var APP_DATA = {
         {
           "tileSize": 512,
           "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-6",
+      "name": "6",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
         },
         {
           "tileSize": 512,
-          "size": 2048
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
         }
       ],
-      "faceSize": 2000,
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-7",
+      "name": "7",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-8",
+      "name": "8",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
+      "initialViewParameters": {
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "8-9",
+      "name": "9",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        }
+      ],
+      "faceSize": 1024,
       "initialViewParameters": {
         "pitch": 0,
         "yaw": 0,
