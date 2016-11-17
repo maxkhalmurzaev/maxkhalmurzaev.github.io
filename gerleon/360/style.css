@@ -200,11 +200,11 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 
 #sceneListToggle {
   position: absolute;
-  top: 8px;
+  top: 5px;
   right: 30px;
   width: 40px;
   height: 40px;
-  padding: 5px;
+  padding: 1px;
 }
 
 .mobile #sceneListToggle {
@@ -263,7 +263,6 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 .mobile #sceneList {
-  padding-top: 50px;
 }
 
 #sceneList .scenes {
@@ -295,7 +294,6 @@ body.fullscreen-enabled.mobile #autorotateToggle {
 }
 
 .mobile #sceneList .scene {
-  height: 40px;
 }
 
 #sceneList .scene .text {
